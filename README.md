@@ -13,6 +13,7 @@ cmake ..
 make -j
 ./sine_bench
 ```
+### Float
 ```
 mkdir build_float && cd build_float
 cmake -DUSE_FLOAT=ON ..
