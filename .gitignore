@@ -1,0 +1,14 @@
+# Executables
+prog
+*.exe
+
+# CMake build directory
+build/
+*.o
+CMakeCache.txt
+CMakeFiles/
+Makefile*
+
+# OS generated
+.DS_Store
+Thumbs.db
